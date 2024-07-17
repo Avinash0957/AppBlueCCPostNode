@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.609.0",
+    "aws-sdk": "^2.1656.0",
+    "axios": "^1.7.2",
+    "graceful-fs": "^4.2.11",
+    "js-yaml": "^4.1.0",
+    "mysql": "^2.18.1",
+    "serverless": "^2.72.4",
+    "serverless-dotenv-plugin": "^1.2.1",
+    "serverless-offline": "^13.6.0"
+  }
+}
